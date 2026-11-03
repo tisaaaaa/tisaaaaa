@@ -9,12 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://anna-tiso.vercel.app"><img src="https://img.shields.io/badge/Portfolio-anna--tiso.vercel.app-C97B8E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:annatiso41@gmail.com"><img src="https://img.shields.io/badge/Email-annatiso41@gmail.com-E7A1B0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Open%20to-work-213B38?style=for-the-badge&logo=sparkles&logoColor=white" alt="Open to work"/>
-</p>
-
 ---
 
 ### 🌿 Un po' di me
