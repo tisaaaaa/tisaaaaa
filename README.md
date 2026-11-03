@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://anna-tiso.vercel.app"><img src="https://img.shields.io/badge/Portfolio-anna--tiso.vercel.app-C97B8E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:annatiso41@gmail.com"><img src="https://img.shields.io/badge/Email-annatiso41@gmail.com-E7A1B0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://likan.it"><img src="https://img.shields.io/badge/Progetto-likan.it-6F9A80?style=for-the-badge&logo=googlechrome&logoColor=white" alt="likan.it"/></a>
   <img src="https://img.shields.io/badge/Open%20to-work-213B38?style=for-the-badge&logo=sparkles&logoColor=white" alt="Open to work"/>
 </p>
 
@@ -75,11 +74,6 @@ const anna = {
       <img src="https://img.shields.io/badge/TypeScript-6F9A80?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS-213B38?style=flat-square&logo=css3&logoColor=white"/>
     </td>
-    <td width="50%" valign="top">
-      <h4>🌐 <a href="https://likan.it">likan.it</a></h4>
-      <p>Un mio progetto online: dai un'occhiata!</p>
-      <img src="https://img.shields.io/badge/Live-online-E7A1B0?style=flat-square&logo=googlechrome&logoColor=white"/>
-    </td>
   </tr>
 </table>
 
@@ -95,16 +89,6 @@ const anna = {
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tisaaaaa&hide_border=true&border_radius=16&background=FBF6F1&ring=E7A1B0&fire=C97B8E&currStreakLabel=6F9A80&sideLabels=213B38&currStreakNum=213B38&sideNums=213B38&dates=6F9A80&locale=it" alt="Streak"/>
 </p>
-
----
-
-### 💼 Esperienze
-
-| | Ruolo | Dove | Quando |
-|---|---|---|---|
-| 💻 | **Sviluppatrice Full Stack** | MFP Store · Oppeano (VR) | 2024 – 2026 |
-| 🗂️ | **Stage – Ufficio CED** | North Plastik · Angiari (VR) | 2023 |
-| 🎓 | **Diploma di Perito Informatico** | I.I.S. Silva-Ricci · Legnago (VR) | 2019 – 2024 |
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E7A1B0,50:6F9A80,100:213B38&height=110&section=footer" width="100%" alt=""/>
