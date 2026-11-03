@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://anna-tiso.vercel.app"><img src="https://img.shields.io/badge/Portfolio-anna--tiso.vercel.app-C97B8E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:annatiso41@gmail.com"><img src="https://img.shields.io/badge/Email-annatiso41@gmail.com-E7A1B0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://likan.it"><img src="https://img.shields.io/badge/Progetto-likan.it-6F9A80?style=for-the-badge&logo=googlechrome&logoColor=white" alt="likan.it"/></a>
   <img src="https://img.shields.io/badge/Open%20to-work-213B38?style=for-the-badge&logo=sparkles&logoColor=white" alt="Open to work"/>
@@ -53,7 +54,7 @@ const anna = {
   <tr>
     <td width="50%" valign="top">
       <h4>🛍️ <a href="https://github.com/tisaaaaa/bloom-shop">bloom-shop</a></h4>
-      <p>Mini e-commerce di un negozio di fiori: catalogo con filtri e ricerca, carrello persistente e barra della spedizione gratuita.</p>
+      <p>Mini e-commerce di un negozio di fiori: catalogo con filtri e ricerca, carrello persistente e barra della spedizione gratuita.<br/><a href="https://tisaaaaa.github.io/bloom-shop/"><b>👉 Demo live</b></a></p>
       <img src="https://img.shields.io/badge/React-E7A1B0?style=flat-square&logo=react&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-6F9A80?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vite-213B38?style=flat-square&logo=vite&logoColor=white"/>
@@ -69,7 +70,7 @@ const anna = {
   <tr>
     <td width="50%" valign="top">
       <h4>✨ <a href="https://github.com/tisaaaaa/portfolio">portfolio</a></h4>
-      <p>Il mio sito personale: chi sono, esperienze, progetti e contatti, con animazioni leggere e tema chiaro/scuro.</p>
+      <p>Il mio sito personale: chi sono, esperienze, progetti e contatti, con animazioni leggere e tema chiaro/scuro.<br/><a href="https://anna-tiso.vercel.app"><b>👉 anna-tiso.vercel.app</b></a></p>
       <img src="https://img.shields.io/badge/Next.js-E7A1B0?style=flat-square&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-6F9A80?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS-213B38?style=flat-square&logo=css3&logoColor=white"/>
